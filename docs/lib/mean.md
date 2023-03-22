@@ -31,5 +31,5 @@ A função retorna o valor médio dos números na lista ou matriz.
 
 ## Observações
 
-A função mean() pode ser usada em conjunto com outras funções da nossa biblioteca padrão para análise de dados.
-Se a lista ou matriz de entrada estiver vazia, a função mean() retornará um erro. Certifique-se de validar os dados de entrada antes de usar a função.
+- A função mean() pode ser usada em conjunto com outras funções da nossa biblioteca padrão para análise de dados.
+- Se a lista ou matriz de entrada estiver vazia, a função mean() retornará um erro. Certifique-se de validar os dados de entrada antes de usar a função.

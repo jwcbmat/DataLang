@@ -1,0 +1,11 @@
+# Escolha da Linguagem de Programação e da IDE
+
+Para o desenvolvimento da nossa nova linguagem de programação voltada para análise de dados, escolhemos a linguagem Python como nossa plataforma de desenvolvimento e a IDE PyCharm para o desenvolvimento do código. Aqui estão as principais razões por trás dessas escolhas:
+
+Python é uma das linguagens de programação mais populares no setor de análise de dados, com uma grande comunidade de usuários e muitas bibliotecas de análise de dados disponíveis. Ele é conhecido por sua simplicidade, clareza e facilidade de uso, o que torna uma escolha natural para uma nova linguagem de programação voltada para análise de dados. Além disso, a sintaxe da linguagem é intuitiva e fácil de ler, o que a torna uma ótima escolha para iniciantes e especialistas em programação.
+
+A IDE PyCharm é uma das IDEs mais populares para desenvolvimento em Python e oferece muitos recursos úteis para programadores, como auto-completação de código, depuração e testes integrados. Ele também oferece um grande número de plugins e extensões para estender suas funcionalidades e se integrar com outras ferramentas de desenvolvimento. Acreditamos que o PyCharm nos ajudará a desenvolver a linguagem de programação com eficiência e facilidade, permitindo-nos aproveitar as muitas funcionalidades disponíveis na plataforma.
+
+Escolhemos um compilador JIT (Just In Time) para garantir uma execução rápida dos programas. Acreditamos que um JIT compiler seja uma escolha ideal para uma linguagem de programação de análise de dados, pois os programas de análise de dados geralmente trabalham com grandes conjuntos de dados e precisam ser executados com rapidez e eficiência.
+
+Em resumo, escolhemos Python como nossa plataforma de desenvolvimento e PyCharm como nossa IDE porque acreditamos que eles são as melhores escolhas para o desenvolvimento de uma nova linguagem de programação de análise de dados. Com essas ferramentas, esperamos desenvolver uma linguagem poderosa, fácil de usar e eficiente que permita que os usuários analisem dados de maneira rápida e fácil.
